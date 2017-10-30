@@ -1,0 +1,7 @@
+"pt-BR":
+  messages:
+    confirm: Tem certeza?
+    listing: Listando
+    destroy_success: Removido com sucesso.
+    update_success: Atualizado com sucesso.
+    create_success: Criado com sucesso.
