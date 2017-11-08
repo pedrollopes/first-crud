@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
   
+  get 'testeapp/index'
+
   get 'bemvindo' => 'home#index'
   root 'home#index'
   

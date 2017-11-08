@@ -15,8 +15,10 @@ Rails.application.config.assets.precompile += %w( alert.js
                                                   home.js
                                                   kinds.js
                                                   phones.js
+                                                  testeapp.js
                                                   addresses.css
                                                   contacts.css
                                                   home.css
                                                   kinds.css
-                                                  phones.css)
+                                                  phones.css
+                                                  testeapp.css)
